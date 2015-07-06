@@ -1,0 +1,25 @@
+{
+  "name": "adwords",
+  "version": "1.0.0",
+  "description": "google adwords report",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jakjothi/adwords.git"
+  },
+  "keywords": [
+    "google",
+    "adwords",
+    "report",
+    "google-adwords"
+  ],
+  "author": "Aruljothi Kuppusamy <jak.jothi@gmail.com> (https://github.com/jakjothi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakjothi/adwords/issues"
+  },
+  "homepage": "https://github.com/jakjothi/adwords"
+}
